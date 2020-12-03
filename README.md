@@ -19,7 +19,7 @@ Kubeform by AppsCode is a Kubernetes operator for [Terraform](https://www.terraf
 
 ## Installation
 
-To install Kubeform, please follow the guide [here](https://kubeform.com/docs/latest/setup/install/).
+To install Kubeform, please follow the guide [here](https://kubeform.com/docs/latest/setup/install/community/).
 
 ## Using Kubeform
 
